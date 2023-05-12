@@ -6,7 +6,7 @@ const port = 3000;
 
 
 const replicate = new Replicate({
-  auth: 'r8_erkG4hLcEw7e1qYskk5haqUHZYUJtuR3MLnf8',
+  auth: '',
 });
 
 async function output (){ 
